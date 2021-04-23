@@ -411,7 +411,9 @@ border-radius: 4px;
         height: 1600px;
     }
     .services h1{
-        font-size:1.2rem;
+        font-size: 2rem;
+        padding: 0 1rem 0 1rem;
+        text-align: center;
     }
 }
 /*Contact Section*/
@@ -705,8 +707,8 @@ border-radius: 4px;
             justify-content: center;
             margin: 0 auto;
             height: 100vh;
-            width: 100%;
-            /* background-color: #141414; */
+            width: 100%;    
+            background-color: #141414;
             z-index: 1;
             max-width: 1300px;
             padding:0 50px;
@@ -791,7 +793,7 @@ border-radius: 4px;
                 margin: 0 auto;
                 height: 100vh;
                 width: 100%;
-                /* background-color: #141414; */
+                background-color: #141414;
                 z-index: 1;
                 max-width: 1300px;
                 padding:0 50px;
