@@ -746,10 +746,10 @@ main h2{
 # About
 --------------------------------------------------------------*/
 .main{
-  background-color: #141414;
+  background-color: #000E23;
 }
 .about{
-  background-color: #141414;
+  background-color: #000E23;
   height: auto;
   margin-top: -106px;
 }
