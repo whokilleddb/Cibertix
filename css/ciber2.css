@@ -322,7 +322,7 @@ border-radius: 4px;
     display: flex;
     flex-direction: column;
     align-items: center;
-    height: 110vh;
+    height: 40rem;
 }
 .services h1{
     background-color: #ff8177;
