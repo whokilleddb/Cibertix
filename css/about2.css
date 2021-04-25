@@ -85,7 +85,7 @@ width: 100%;
 border: none;
 outline: none;
 border-radius: 4px;
-background-color: #f77062;
+background-color: #005F98;
 color: #fff;
 }
 .button:hover{
@@ -95,7 +95,7 @@ color: #fff;
 
 }
 .navbar_links:hover{
-    color: #f77062;
+    color: #005F98;
     transition: all 0.3s ease;
 }
 
@@ -188,7 +188,7 @@ color: #fff;
     }
     /* Hero Section CSS */
     .main{
-        background-color: #141414;
+        background-color: #000E23;
     }
     .main_container{
         display: grid;
@@ -198,7 +198,7 @@ color: #fff;
         margin: 0 auto;
         height: 90vh;
         width: 100%;
-        background-color: #141414;
+        background-color: #000E23;
         z-index: 1;
         max-width: 1300px;
         padding:0 50px;
@@ -232,7 +232,7 @@ background-size: 100%;
 }
 .main_btn{
 font-size: 1rem;
-background-image: linear-gradient(to top,#f77062 0%,#fe5196 100%);
+background-image: linear-gradient(to top,#005F98 0%,#fe5196 100%);
 padding: 14px 32px;
 border: none;
 border-radius: 4px;
@@ -319,7 +319,7 @@ border-radius: 4px;
 }
 /* Services */
 .services{
-    background-color: #141414;
+    background-color: #000E23;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -388,7 +388,7 @@ border-radius: 4px;
     border: none;
     outline: none;
     border-radius: 4px;
-    background:#f77062;
+    background:#005F98;
     position: absolute;
     top :370px;
     left: 30px
@@ -416,9 +416,9 @@ border-radius: 4px;
     }
 }
 /*Contact Section*/
-.contact {
-    font-family: 'Roboto', sans-serif;
-    background-color: #141414;
+.contact { 
+    background-color: #000E23;
+    font-family: 'Roboto', sans-serif;    
     padding-bottom: 30px;
   }
   
@@ -564,7 +564,7 @@ border-radius: 4px;
   
 /* Main 2  */
 .main2{
-    background-color: #141414;
+    background-color: #000E23;
     width: 100%;
     height: 100vh;
     display: flex;
@@ -581,7 +581,7 @@ border-radius: 4px;
     margin: 0 auto;
     height: 100vh;
     width: 100%;
-    background-color: #141414;
+    background-color: #000E23;
     z-index: 1;
     max-width: 1300px;
     padding:0 50px;
@@ -707,7 +707,7 @@ border-radius: 4px;
             margin: 0 auto;
             height: 100vh;
             width: 100%;
-            /* background-color: #141414; */
+            /* background-color: #000E23; */
             z-index: 1;
             max-width: 1300px;
             padding:0 50px;
@@ -735,7 +735,7 @@ border-radius: 4px;
         }
         .sec_btn{
             font-size: 1rem;
-            background-image: linear-gradient(to top,#f77062 0%,#fe5196 100%);
+            background-image: linear-gradient(to top,#005F98 0%,#fe5196 100%);
             padding: 14px 32px;
             border: none;
             border-radius: 4px;
@@ -792,7 +792,7 @@ border-radius: 4px;
                 margin: 0 auto;
                 height: 100vh;
                 width: 100%;
-                /* background-color: #141414; */
+                /* background-color: #000E23; */
                 z-index: 1;
                 max-width: 1300px;
                 padding:0 50px;
@@ -817,7 +817,7 @@ border-radius: 4px;
               
               #footer .footer-newsletter {
                 padding: 50px 0;
-                background: #141414;
+                background: #000E23;
               }
               
               #footer .footer-newsletter h4 {
@@ -861,11 +861,11 @@ border-radius: 4px;
               
            
               #footer .footer-top {
-                background: #141414;
+                background: #000E23;
                 /* border-top: 1px solid #17455e; */
                 /* border-bottom: 1px solid #123649; */
                 padding: 60px 0 30px 0;
-                border-top: #141414;
+                border-top: #000E23;
               }
               
               #footer .footer-top .footer-info {
@@ -892,7 +892,7 @@ border-radius: 4px;
               #footer .footer-top .social-links a {
                 font-size: 18px;
                 display: inline-block;
-                background: #141414;
+                background: #000E23;
                 color: #fff;
                 line-height: 1;
                 padding: 8px 0;
