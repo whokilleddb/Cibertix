@@ -127,11 +127,11 @@ color: #fff;
     .navbar_menu.active{
         background-color: #131313;
         top :96%;
-        left: 0;
+        left: -12px;
         opacity: 1;
         transition: all 0.5s ease;
         z-index: 99;
-        height: 60vh;
+        height: 86vh;
         font-size: 1.6rem;
     }
     #navbar_logo{
@@ -188,7 +188,7 @@ color: #fff;
     }
     /* Hero Section CSS */
     .main{
-        background-color: #141414;
+        background-color: #000E23;
     }
     .main_container{
         display: grid;
@@ -581,7 +581,7 @@ border-radius: 4px;
     margin: 0 auto;
     height: 100vh;
     width: 100%;
-    background-color: #141414;
+    background-color: #000E23;
     z-index: 1;
     max-width: 1300px;
     padding:0 50px;
@@ -807,7 +807,7 @@ border-radius: 4px;
                 margin-left: 70px;
             }
             #footer {
-                background: #151515;
+                background:  #000E23;
                 padding: 0 0 30px 0;
                 width: 100%;
                 color: #fff;
@@ -861,7 +861,7 @@ border-radius: 4px;
               
            
               #footer .footer-top {
-                background: #141414;
+                background:  #000E23;
                 /* border-top: 1px solid #17455e; */
                 /* border-bottom: 1px solid #123649; */
                 padding: 60px 0 30px 0;

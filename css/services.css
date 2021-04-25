@@ -956,7 +956,8 @@ Services-details*/
 }
 .pricing .row {
   padding-top: 40px;
-  width :100%
+  width :100%;
+  justify-content:center;
 }
 
 .pricing .box {
@@ -2206,7 +2207,8 @@ Services-details*/
 }
 .pricing .row {
   padding-top: 40px;
-  width :100%
+  width :100%;
+justify-content :center;
 }
 .pricing .row2{
   display: flex;
