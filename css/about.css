@@ -9,7 +9,7 @@
 # General
 --------------------------------------------------------------*/
 body {
-  font-family: "Open Sans", sans-serif;
+  font-family: 'Roboto', sans-serif;
   color: #444;
 }
 .icon-box{
@@ -180,7 +180,7 @@ h1, h2, h3, h4, h5, h6, .font-primary {
   margin-bottom: 30px;
   font-size: 58px;
   font-weight: 700;
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Roboto', sans-serif;
 }
 
 #hero p {
@@ -189,7 +189,7 @@ h1, h2, h3, h4, h5, h6, .font-primary {
   animation-delay: 0.4s;
   margin: 0 auto 30px auto;
   color: #fff;
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Roboto', sans-serif;
 }
 
 #hero .carousel-control-prev, #hero .carousel-control-next {
@@ -1017,7 +1017,7 @@ main h2{
   font-size: 46px;
   color: #68A4C4;
   font-weight: 400;
-  font-family: "Open Sans", sans-serif;
+  font-family: 'Roboto', sans-serif;
   margin-bottom: 25px;
 }
 

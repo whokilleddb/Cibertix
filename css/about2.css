@@ -5,7 +5,7 @@
     box-sizing: border-box;
     margin: 0;
     padding: 0;
-    font-family: 'Kumbh Sans',sans-serif;
+    font-family: 'Roboto', sans-serif;
 }
 body{
     height: 100%;
@@ -20,7 +20,7 @@ body{
     position: sticky;
     top: 0;
     z-index: 999;
-    font-family: 'Kumbh Sans',sans-serif;;
+    font-family: 'Roboto', sans-serif;
 }
 .navbar_container{
     display: flex;
@@ -416,9 +416,9 @@ border-radius: 4px;
     }
 }
 /*Contact Section*/
-.contact {
-    font-family: 'Kumbh Sans',sans-serif;
+.contact { 
     background-color: #000E23;
+    font-family: 'Roboto', sans-serif;    
     padding-bottom: 30px;
   }
   
